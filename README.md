@@ -14,7 +14,7 @@
 ※ Google Calendar 연동은 별도의 Google OAuth 인증 파일(credentials.json)이 필요합니다. 인증 파일이 없어도 고객 등록 및 메모 관리 등 기본 기능은 이용할 수 있습니다.
 
 
-** ※ macOS 실행 방법 **
+**※ macOS 실행 방법**
 
 macOS에서는 프로그램 폴더에서 터미널을 열고 아래 명령어를 순서대로 입력하시면 됩니다.
 
