@@ -12,3 +12,5 @@
 ※ Gemini AI 분석은 프로그램 내 설정에서 개인 API 키를 등록해야 사용할 수 있습니다.
 
 ※ Google Calendar 연동은 별도의 Google OAuth 인증 파일(credentials.json)이 필요합니다. 인증 파일이 없어도 고객 등록 및 메모 관리 등 기본 기능은 이용할 수 있습니다.
+
+※ 본 프로그램은 Windows 환경에서만 실행할 수 있습니다.
